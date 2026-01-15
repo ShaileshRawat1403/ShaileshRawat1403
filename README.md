@@ -53,7 +53,7 @@ I bridge the gap between business dynamics and Agentic AI. My work focuses on **
 | :--- | :--- |
 | **Professional** | [shailesh-rawat (LinkedIn)](https://www.linkedin.com/in/shailesh-rawat/) |
 | **Direct** | [shailesh.rawat1403@gmail.com](mailto:shailesh.rawat1403@gmail.com) |
-| **Insights** | [sans_serif_sentiments (Blog)](https://your-substack-or-blog-link.com) |
+| **Insights** | [PruningMyPothos] (Blog)](https://pruningmypothos.com/) |
 
 ---
 
