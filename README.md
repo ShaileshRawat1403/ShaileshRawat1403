@@ -2,60 +2,85 @@
 
 **Thinker | Tinkerer | Translator**
 
-> "In the age of AI, the person who can best describe the problem is the person who will solve it. I believe that **English is the hottest new programming language.**"
+> "In the age of AI, the person who can best describe the problem is the person who will solve it.  
+> I believe that **English is the hottest new programming language.**"
 
 ---
 
 ### 🚀 Strategic Focus: The NLPg Frontier
-I bridge the gap between business dynamics and Agentic AI. My work focuses on **Natural Language Programming (NLPg)**—shifting from brittle syntax to engineered intent.
 
-| Competency | Focus Area | Philosophy |
+I work at the intersection of **AI systems, language, and human decision-making**.
+
+My focus is **Natural Language Programming (NLPg)**: treating intent, constraints, and context as executable inputs—so systems behave predictably, responsibly, and usefully.
+
+This is about moving from clever prompts to **engineered understanding**.
+
+---
+
+### 🧠 Core Capabilities (How I Work)
+
+| Capability | What I Do | Why It Matters |
 | :--- | :--- | :--- |
-| **System Design** | Agentic & Tool-Using Workflows | From single responses to systems that plan, act, and verify |
-| **Context Engineering** | Intent, Constraints, Grounding | Correctness emerges from structure, not clever prompts |
-| **Applied NLPg** | Language as Executable Logic | PRDs, specs, and policies are first-class inputs |
-| **AI Enablement** | Adoption & Change | AI succeeds when humans stay in the control loop |
-| **Documentation** | Explanation & Traceability | If it cannot be explained, it cannot be trusted |
+| **Systems Thinking** | Design agentic, tool-using workflows | AI must plan, act, verify, and fail safely |
+| **Context Engineering** | Structure intent, constraints, and grounding | Correctness emerges from structure, not improvisation |
+| **Applied NLPg** | Treat language as executable logic | PRDs, policies, and specs become system inputs |
+| **AI Enablement & Comms** | Translate systems for humans | Adoption fails without trust and clarity |
+| **Documentation & Traceability** | Explain behavior, limits, and decisions | If it can’t be explained, it can’t be trusted |
+| **Applied Research** | Evaluate models, methods, and trade-offs | Decisions need evidence, not demos |
 
 ---
 
 ### 🔭 Currently Building
 
-#### [Kvasir](https://github.com/ShaileshRawat1988/Kvasir)
-* **The Intent:** A privacy-first, Local LLM application for executive intelligence.
-* **The Mechanism:** Integrated summarization and automated drafting using SLMs.
+#### **Kvasir**
+*A privacy-first, local LLM system for executive intelligence*
 
-#### [Context Engineering Core](https://github.com/ShaileshRawat1988/context-engineering-core.git)
-* **The Intent:** Aligning LLMs with Business KPIs via structured "Intent-First Programming."
-* **The Mechanism:** A standardized framework for enterprise-grade prompt logic.
+- **Intent:** Enable high-leverage decision support without data leakage
+- **Mechanism:** Local SLMs, structured summarization, controlled drafting
+- **Focus:** Practical intelligence, not chatbot theatrics
 
----
+#### **Context Engineering Core**
+*A framework for Intent-First Programming*
 
-### 🌱 Technical Research & Learning
-> [!IMPORTANT]
-> **Current Research Spike:** Fine-tuning Small Language Models (SLMs) locally using **Apple MLX** to optimize privacy-focused enterprise inference.
-
-* **NLPg Workflows:** Engineering open-source logic flows that solve real-world problems.
-* **AI/LLMOps:** Researching the operational overhead of autonomous agent orchestration.
+- **Intent:** Align LLM behavior with business KPIs and constraints
+- **Mechanism:** Structured prompt logic, guardrails, evaluation hooks
+- **Use case:** Enterprise-grade AI systems that can be reasoned about
 
 ---
 
-### 💬 Let's Talk About...
-* **Why your PRD is actually your source code.**
-* Building practical software applications locally using **Language as Logic.**
-* The difference between "Prompting" (Guesswork) and **Context Engineering** (Science).
+### 🔬 Research & Exploration (Applied, Not Academic)
+
+> **Current focus:** Fine-tuning and running Small Language Models (SLMs) locally using **Apple MLX**
+
+What I actively research:
+- Cost, latency, and privacy trade-offs of local inference
+- Feasibility of SLMs for enterprise internal tooling
+- Operational overhead of agentic systems and LLMOps
+- Evaluation methods that go beyond “it feels better”
+
+Research output is always tied to:
+**adoption, risk, and operational reality**.
+
+---
+
+### 💬 I Care Deeply About
+
+- Why your **PRD is actually your source code**
+- The difference between **prompting (guesswork)** and **context engineering (science)**
+- Building AI systems where **humans stay in the control loop**
+- Documentation as a **trust mechanism**, not an afterthought
 
 ---
 
 ### 📫 Connect With Me
 
-| Channel | Contact Info |
+| Channel | Contact |
 | :--- | :--- |
-| **Professional** | [shailesh-rawat (LinkedIn)](https://www.linkedin.com/in/shailesh-rawat/) |
-| **Direct** | [shailesh.rawat1403@gmail.com](mailto:shailesh.rawat1403@gmail.com) |
-| **Insights** | [PruningMyPothos](Blog)(Personal Blog) |
+| **LinkedIn** | [shailesh-rawat](https://www.linkedin.com/in/shailesh-rawat/) |
+| **Email** | shailesh.rawat1403@gmail.com |
+| **Writing** | [PruningMyPothos](https://pruningmypothos.com) |
 
 ---
 
 ### ⚡ Fun Fact
-* I play the guitar, love dogs, and spend my downtime listening to **Metal**. 🤘
+I play guitar, love dogs, and spend downtime listening to **Metal** 🤘  
