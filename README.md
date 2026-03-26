@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Shailesh
+## Hi there, I'm Shailesh
 
 **Thinker | Tinkerer | Translator**
 
@@ -7,30 +7,37 @@
 
 ---
 
-### 🚀 Strategic Focus: The NLPg Frontier
+### Strategic Focus
 
-I work at the intersection of **AI systems, language, and human decision-making**.
+I work at the intersection of AI systems, language, and human decision-making.
 
-My focus is **Natural Language Programming (NLPg)**: treating intent, constraints, and context as executable inputs—so systems behave predictably, responsibly, and usefully.
+My focus is Natural Language Programming, Deterministic Agentic Execution, and AI-assisted SDLC: treating intent, constraints, and context as serious system inputs so AI behaves with more structure, accountability, and operational usefulness.
 
-This is about moving from clever prompts to **engineered understanding**.
+In other words, I am less interested in making AI sound impressive than in making it work under conditions that resemble real life.
 
 ---
 
-### 🧠 Core Capabilities (How I Work)
+### Core Capabilities
 
 | Capability | What I Do | Why It Matters |
 | :--- | :--- | :--- |
-| **Systems Thinking** | Design agentic, tool-using workflows | AI must plan, act, verify, and fail safely |
-| **Context Engineering** | Structure intent, constraints, and grounding | Correctness emerges from structure, not improvisation |
-| **Applied NLPg** | Treat language as executable logic | PRDs, policies, and specs become system inputs |
-| **AI Enablement & Comms** | Translate systems for humans | Adoption fails without trust and clarity |
-| **Documentation & Traceability** | Explain behavior, limits, and decisions | If it can’t be explained, it can’t be trusted |
-| **Applied Research** | Evaluate models, methods, and trade-offs | Decisions need evidence, not demos |
+| **Systems Thinking** | Design agentic, tool-using workflows and execution loops | AI needs structure if it is going to survive contact with reality |
+| **Context Engineering** | Shape intent, constraints, and grounding before generation begins | Correctness usually comes from setup, not salvage |
+| **Applied NLPg** | Treat language as executable logic and system input | PRDs, policies, and specs become operational material |
+| **Execution Governance** | Build approval, audit, and recovery paths into AI workflows | Capability without control is just a more efficient mistake |
+| **AI Enablement & Communication** | Translate complex systems for human users and stakeholders | Adoption depends on trust, not just technical novelty |
+| **Documentation & Traceability** | Explain behavior, limits, and decisions clearly | If it cannot be inspected, it cannot be relied on |
 
 ---
 
-### 🔭 Currently Building
+### Currently Building
+
+#### **DAX**
+*Deterministic Agentic Execution for AI-assisted SDLC*
+
+- **Intent:** Make AI work more governed, inspectable, and operational
+- **Mechanism:** RAO loops, deterministic execution, approvals, audit trails, recovery, local-first control
+- **Focus:** Helping developers and non-developers use AI with structure, trust, and fewer mystery rituals
 
 #### **Kvasir**
 *A privacy-first, local LLM system for executive intelligence*
@@ -42,37 +49,38 @@ This is about moving from clever prompts to **engineered understanding**.
 #### **Context Engineering Core**
 *A framework for Intent-First Programming*
 
-- **Intent:** Align LLM behavior with business KPIs and constraints
+- **Intent:** Align LLM behavior with business KPIs, constraints, and operational reality
 - **Mechanism:** Structured prompt logic, guardrails, evaluation hooks
-- **Use case:** Enterprise-grade AI systems that can be reasoned about
+- **Use case:** AI systems that can be reasoned about without pretending ambiguity is a feature
 
 ---
 
-### 🔬 Research & Exploration (Applied, Not Academic)
+### Research and Exploration
 
-> **Current focus:** Fine-tuning and running Small Language Models (SLMs) locally using **Apple MLX**
+Current focus: fine-tuning and running Small Language Models locally using Apple MLX, while studying how orchestration and control models change the usefulness of AI systems in practice.
 
-What I actively research:
-- Cost, latency, and privacy trade-offs of local inference
-- Feasibility of SLMs for enterprise internal tooling
-- Operational overhead of agentic systems and LLMOps
-- Evaluation methods that go beyond “it feels better”
+What I actively explore:
+- Cost, latency, privacy, and control trade-offs of local inference
+- Deterministic execution patterns for agentic systems
+- Operational overhead in AI-assisted SDLC and LLMOps
+- Evaluation methods that go beyond "it feels smarter"
+- Ways to make AI systems legible to non-developers without flattening the technical truth
 
-Research output is always tied to:
-**adoption, risk, and operational reality**.
-
----
-
-### 💬 I Care Deeply About
-
-- Why your **PRD is actually your source code**
-- The difference between **prompting (guesswork)** and **context engineering (science)**
-- Building AI systems where **humans stay in the control loop**
-- Documentation as a **trust mechanism**, not an afterthought
+Research output is always tied back to adoption, risk, and operational reality.
 
 ---
 
-### 📫 Connect With Me
+### What I Care Deeply About
+
+- Why your PRD is often closer to source code than your team admits
+- The difference between prompting as guesswork and context engineering as disciplined setup
+- Building AI systems where humans remain meaningfully in the control loop
+- Making orchestration, governance, and traceability feel usable rather than bureaucratic
+- Helping non-developers work with serious AI systems without needing to cosplay as software engineers
+
+---
+
+### Connect With Me
 
 | Channel | Contact |
 | :--- | :--- |
@@ -82,5 +90,6 @@ Research output is always tied to:
 
 ---
 
-### ⚡ Fun Fact
-I play guitar, love dogs, and spend downtime listening to **Metal** 🤘  
+### Fun Fact
+
+I play guitar, love dogs, and spend downtime listening to metal.
