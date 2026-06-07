@@ -3,14 +3,14 @@
 **Consultant, GenAI / LLM Systems**  
 **Building with NLPg | AI-assisted SDLC | Business, Product & Delivery Enablement**
 
-> In the age of AI, the person who can best describe the problem is the person who will solve it.  
+> When it comes to AI, the person who can best describe the problem is the person who will solve it.  
 > I believe that **English is becoming one of the hottest new programming languages.**
 
 ---
 
 ### What I Do
 
-I work at the intersection of **AI systems, business intent, product thinking, documentation, and delivery**.
+I work with **AI systems, business intent, product thinking, documentation, and delivery**.
 
 My focus is helping teams move from AI experimentation to structured implementation by turning intent, constraints, workflows, and context into serious system inputs.
 
