@@ -1,7 +1,7 @@
 ## Hi there, I'm Shailesh
 
 **Consultant, GenAI / LLM Systems**  
-**Building with NLPg | AI-assisted SDLC | Business, Product & Delivery Enablement**
+**Building with NLPg | AI-assisted SDLC | Business, Product & AI Enablement**
 
 > When it comes to AI, the person who can best describe the problem is the person who will solve it.  
 > I believe that **English is becoming one of the hottest new programming languages.**
