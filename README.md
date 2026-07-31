@@ -10,7 +10,7 @@
 
 ### What I Do
 
-I work with **AI systems, business intent, product thinking, documentation, and delivery**.
+I work with **AI systems, business intent, product thinking, documentation, and AI Enablement**.
 
 My focus is helping teams move from AI experimentation to structured implementation by turning intent, constraints, workflows, and context into serious system inputs.
 
