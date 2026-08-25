@@ -1,6 +1,6 @@
 ## Hi there, I'm Shailesh
 
-**Consultant, GenAI / LLM Systems**  
+**Applied AI / LLM Systems**  
 **Building with NLPg | AI-assisted SDLC | Business, Product & AI Enablement**
 
 > When it comes to AI, the person who can best describe the problem is the person who will solve it.  
