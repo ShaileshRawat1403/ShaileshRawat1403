@@ -8,6 +8,17 @@
 
 ---
 
+### PocketFabric reports
+
+Two open reports on repurposing an Android smartphone as personal computing infrastructure:
+
+- [A Second Life Under Constraints](https://doi.org/10.5281/zenodo.23836212): the research case study, its failure mechanisms and limits.
+- [PocketNode functional validation](https://doi.org/10.5281/zenodo.23836251): exact-source tests, operational observations and unresolved findings.
+
+Self-funded, first-party work. Both reports disclose AI assistance and have not undergone journal peer review. [Overview and citations](research/pocketfabric-reports.md).
+
+---
+
 ### What I Do
 
 I work with **AI systems, business intent, product thinking, documentation, and AI Enablement**.
